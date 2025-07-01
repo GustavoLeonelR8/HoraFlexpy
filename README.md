@@ -1,0 +1,10 @@
+Esta aplicación ha sido creada con el objetivo de facilitar la gestión y consulta de horarios académicos de manera práctica y automatizada. Pensada especialmente para estudiantes, ofrece una interfaz visual cómoda y accesible, construida con Python y su librería gráfica Tkinter, que permite cargar archivos de horario con una estructura simple y funcional.
+Actualmente, la aplicación trabaja con archivos de texto delimitados por comas, conocidos como `.scv` (una variante del formato `.csv`), que deben tener una estructura clara: cada fila representa un día de la semana seguido de las clases correspondientes, por ejemplo:
+`Lunes,Matemática,Inglés,Física,Educación Física,Historia`.
+Una vez importado el archivo, la aplicación analiza automáticamente qué materias se deben cursar **en el día actual** y cuáles corresponden **al día siguiente**, mostrando esta información de forma clara al usuario. Esta funcionalidad es especialmente útil para planificar tareas, preparar materiales con anticipación o simplemente llevar un control visual del avance semanal sin necesidad de revisar constantemente el horario completo.
+La intención es reducir el estrés de los recordatorios de última hora, permitiendo a los estudiantes organizarse con mayor claridad desde la comodidad de una app liviana, rápida y funcional.
+En próximas versiones, la aplicación también será compatible con archivos **Excel en formato `.xlsx`**, ampliando así la flexibilidad para los usuarios que ya tienen sus horarios en ese formato. También se contempla el desarrollo de nuevas funciones, como edición directa desde la interfaz, alarmas o notificaciones, y exportación de listas de tareas.
+La app fue diseñada para ser lo más accesible posible: no requiere instalación de Python por parte del usuario final, ya que se distribuye en formato `.exe`, listo para ejecutar en cualquier equipo con Windows.
+
+**¿Necesitás ayuda o encontraste un error?**
+Podés comunicarte directamente al correo: **[glrl09@outlook.com](mailto:glrl09@outlook.com)**.
